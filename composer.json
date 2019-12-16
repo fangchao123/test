@@ -1,0 +1,8 @@
+{
+    "name": "xiuxin/admin-login",
+    "description": "this is test",
+    "type": "library",
+    "license": "Apache-2.0",
+    "minimum-stability": "dev",
+    "require": {}
+}
